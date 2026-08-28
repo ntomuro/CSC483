@@ -10,7 +10,7 @@ Code and file repository for assignments and project.
 - Homework #3: :alien: Implementation of Neural Networks
 - Homework #4: :robot: Written exercises + Keras Experiment
 - Homework #5: :deciduous_tree: Backprop Hyperparameters
-- Homework #6: :boot: D2L quiz (on CNN)
+- Homework #6: :boot: D2L quiz (on CNNs)
 - Homework #7: :dog: TBD
 - Final Project: :japanese_goblin: TBD
 
