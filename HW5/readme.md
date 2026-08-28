@@ -4,7 +4,7 @@
 
 Assignment page: https://condor.depaul.edu/ntomuro/courses/483/2026fall/assign/HW5/hw5-2026fall.html
 
-## Setup: Your Development Environment
+## :herb: Setup: Your Development Environment
 
 Before you write any code, set up your environment exactly as specified below.
 This matters: because the assignment asks you to compare your numeric output to
