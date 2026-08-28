@@ -4,15 +4,19 @@ Code and file repository for assignments and project.
 
 ## :books: Assignments
 
+- Homework #0: :clock1030: D2L quiz (on Python, Numpy, Math)
+- Homework #1: :steam_locomotive: D2L quiz (on NN Perceptrons)
+- Homework #2: :punch: D2L quiz (on NN basic concepts)
 - Homework #3: :alien: Implementation of Neural Networks
-- Homework #4: :robot: TBD
-- Homework #5: :deciduous_tree: TBD
+- Homework #4: :robot: Written exercises + Keras Experiment
+- Homework #5: :deciduous_tree: Backprop Hyperparameters
+- Homework #6: :boot: D2L quiz (on CNN)
 - Homework #7: :dog: TBD
 - Final Project: :japanese_goblin: TBD
 
 ## :rocket: Note
 
-All non-Quiz homework assignments must be written in Python. 
+All non-Quiz/written homework assignments must be written in Python. 
 For those which you want to run your code on a local machine (instead of cloud, such as Google CoLab or Kaggle), it is strongly recommended that you create a virtual environment and install the dependencies:
 
 ```
