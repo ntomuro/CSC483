@@ -93,12 +93,6 @@ y0: [1 0 0]
 
 ### Using Google Colab instead
 
-If you don't want to install anything locally, Colab still works. Either upload
-`NN483_network2.ipynb` and the data files with Colab's file-upload panel
-(left sidebar → folder icon → upload), or clone your files from the
-course repo with `!git clone https://github.com/ntomuro/CSC483`, then
-`!pip install import-ipynb` and `import NN483_network2 as network2`
-exactly as above. numpy/pandas are already installed on Colab. You no longer need
-to mount Google Drive or hardcode a Drive path — uploaded/cloned files land in
-Colab's local working directory, so a plain relative filename (e.g. `'iris.csv'`)
-is all you need.
+If you want to work on Colab, upload `483hw5_Check1-Colab.ipynb`, `NN483_network2.ipynb`,  and 
+all other necessary files in the same folder, and open `483hw5_Check1-Colab.ipynb`.  Then
+in the second cell, change the local folder name to your folder name.
