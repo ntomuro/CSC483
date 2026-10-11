@@ -1,6 +1,6 @@
 # :dog: HW#7 Intel Image Classification
 
-![Intel dataset examples](dataset-card.png)
+<img src="dataset-card.png" width="50%">
 
 ## :dog: Note
 
