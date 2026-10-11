@@ -11,7 +11,7 @@ Code and file repository for assignments and project.
 - Homework #4: :robot: Written exercises + Keras Experiment
 - Homework #5: :deciduous_tree: Backprop Hyperparameters
 - Homework #6: :clock1030: D2L quiz (on CNNs)
-- Homework #7: :dog: TBD
+- Homework #7: :dog: Intel Image Classification (using CNN)
 - Final Project: :japanese_goblin: TBD
 
 ## :rocket: Note
